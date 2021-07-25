@@ -39,5 +39,4 @@
     
 14. save model and make predictions on processed test data
 
-7.Model is experimented on to get best results and predictions are made on the test data
 
